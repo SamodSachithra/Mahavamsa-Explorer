@@ -1,0 +1,240 @@
+MAHAVAMSA GRAPHRAG — EVALUATION REPORT
+=================================================================
+
+System          : GraphRAG (Neo4j + Llama 3.2 3B)
+Total questions : 20
+Avg accuracy    : 72%
+Avg response    : 54.7 seconds
+
+ACCURACY BY DIFFICULTY:
+----------------------------------------
+  easy     75%  ███████████████
+  medium   70%  ██████████████
+  hard     70%  ██████████████
+
+ACCURACY BY CATEGORY:
+----------------------------------------
+  Battle         70%  ██████████████
+  Event          60%  ████████████
+  General        100%  ████████████████████
+  Location       80%  ████████████████
+  Multi-hop      70%  ██████████████
+  Person         67%  █████████████
+  Place          90%  ██████████████████
+  Structure      60%  ████████████
+
+
+DETAILED RESULTS:
+=================================================================
+
+Q01 [EASY] — Person
+Q: Who was Vijaya?
+   Score    : 80%
+   Time     : 43.18s
+   Triples  : 0
+   Matched  : vijaya, prince, lanka, arrived
+   Missing  : sinhabahu
+   Answer   : A great question about one of Sri Lanka's most revered figures!
+
+Vijaya (also known as Vijaya Sena) was a legendary king who is said to have founded the kingdom of Sri Lanka in the 3rd century BCE. According to the Mahavamsa, a chronicle that records...
+
+Q02 [EASY] — Person
+Q: Who was King Pandukabhaya?
+   Score    : 80%
+   Time     : 41.62s
+   Triples  : 1
+   Matched  : pandukabhaya, king, anuradhapura, capital
+   Missing  : founded
+   Answer   : King Pandukabhaya (also known as Pandya) was a legendary king of Sri Lanka who is said to have ruled the country in the 5th century BC. According to the Mahavamsa, one of the most important chronicles of ancient Sri Lanka, Pandukabhaya was the founde...
+
+Q03 [EASY] — Person
+Q: Who was Mahinda?
+   Score    : 80%
+   Time     : 48.53s
+   Triples  : 0
+   Matched  : mahinda, buddhism, sri lanka, mission
+   Missing  : thera
+   Answer   : Mahinda (මහින්ත) was a renowned Buddhist monk and the brother of Emperor Devanampiya Tissa of Sri Lanka. He is considered one of the most important figures in the history of Buddhism in Sri Lanka.
+
+According to the Mahavamsa, a sacred chronicle of Sr...
+
+Q04 [EASY] — Person
+Q: Who was Sanghamitta?
+   Score    : 40%
+   Time     : 49.15s
+   Triples  : 0
+   Matched  : sanghamitta, buddhism
+   Missing  : bo tree, female, theri
+   Answer   : Sanghamitta (also known as Sanga Mitha) was a Buddhist nun and princess of ancient Sri Lanka. She played a significant role in the introduction of Buddhism to Sri Lanka, which had been introduced by the Indian emperor Ashoka's son Mahinda.
+
+According...
+
+Q05 [EASY] — Person
+Q: Who was King Devanampiyatissa?
+   Score    : 60%
+   Time     : 60.13s
+   Triples  : 0
+   Matched  : devanampiyatissa, buddhism, king
+   Missing  : mahinda, anuradhapura
+   Answer   : King Devanampiyatissa (also known as Devanampiya Tissa) was a significant figure in the Mahavamsa, an ancient Sri Lankan chronicle. He ruled from 297 BCE to 272 BCE and is considered one of the most important monarchs in Sri Lankan history.
+
+Accordin...
+
+Q06 [EASY] — Place
+Q: What is the significance of Anuradhapura?
+   Score    : 80%
+   Time     : 69.06s
+   Triples  : 1
+   Matched  : anuradhapura, capital, ancient, sacred
+   Missing  : kingdom
+   Answer   : Anuradhapura, the ancient capital of Sri Lanka, holds immense historical and cultural significance in the Mahavamsa chronicle. Founded in the 4th century BCE by King Devanampiya Tissa, Anuradhapura was a major center of Buddhist learning, art, and ar...
+
+Q07 [EASY] — Place
+Q: Where is Sigiriya located?
+   Score    : 100%
+   Time     : 36.78s
+   Triples  : 0
+   Matched  : sigiriya, rock, fortress, kassapa, sri lanka
+   Missing  : 
+   Answer   : Sigiriya, the magnificent rock fortress built by King Kassapa in the 5th century CE, is situated in the central highlands of Sri Lanka. Specifically, it is located near the town of Dambulla, in the Matale District of the Central Province.
+
+Historical...
+
+Q08 [EASY] — Location
+Q: How to visit Polonnaruwa?
+   Score    : 80%
+   Time     : 61.97s
+   Triples  : 0
+   Matched  : polonnaruwa, medieval, capital, visit
+   Missing  : heritage
+   Answer   : Visiting Polonnaruwa is a fascinating experience that allows you to delve into the rich history and culture of ancient Sri Lanka. Located in the central highlands of the island, Polonnaruwa was the medieval capital of Sri Lanka from the 10th to the 1...
+
+Q09 [MEDIUM] — Battle
+Q: Who defeated Elara?
+   Score    : 80%
+   Time     : 45.1s
+   Triples  : 0
+   Matched  : elara, defeated, battle, war
+   Missing  : dutugamunu
+   Answer   : A great question about one of the most pivotal events in Sri Lankan history!
+
+According to the Mahavamsa, a renowned ancient chronicle of Sri Lanka, Elara was defeated by King Devanampiya Tissa. This significant victory marked a turning point in the ...
+
+Q10 [MEDIUM] — Battle
+Q: What was the war between Dutugamunu and Elara about?
+   Score    : 60%
+   Time     : 64.18s
+   Triples  : 0
+   Matched  : dutugamunu, elara, kingdom
+   Missing  : unification, sinhalese
+   Answer   : The war between Dutugamunu and Elara was a pivotal event in Sri Lankan history, as recorded in the Mahavamsa. According to the chronicle, Dutugamunu, who was the son of King Devanampiya Tissa of Anuradhapura, sought to expand his kingdom's borders by...
+
+Q11 [MEDIUM] — Structure
+Q: What did Dutugamunu build after winning the war?
+   Score    : 60%
+   Time     : 37.94s
+   Triples  : 0
+   Matched  : stupa, temple, built
+   Missing  : ruwanweli, mahathupa
+   Answer   : A great question about one of Sri Lanka's most famous kings!
+
+According to the Mahavamsa, a sacred chronicle of Sri Lanka, King Dutugamunu (also known as Dutugampada) was a powerful king who ruled from 161 BCE to 137 BCE. After winning the war agains...
+
+Q12 [MEDIUM] — Person
+Q: What is the story of King Kashyapa and Sigiriya?
+   Score    : 60%
+   Time     : 74.29s
+   Triples  : 0
+   Matched  : kassapa, sigiriya, palace
+   Missing  : father, moggallana
+   Answer   : The story of King Kassapa (also known as Kashyapa) and Sigiriya is a fascinating one in the Mahavamsa, an ancient Sri Lankan chronicle.
+
+According to the Mahavamsa, King Kassapa was a powerful ruler who built the magnificent rock fortress of Sigiriya...
+
+Q13 [MEDIUM] — Event
+Q: When did Buddhism arrive in Sri Lanka?
+   Score    : 60%
+   Time     : 48.67s
+   Triples  : 0
+   Matched  : buddhism, mahinda, bce
+   Missing  : 247, devanampiyatissa
+   Answer   : Buddhism arrived in Sri Lanka around 250 BCE. According to the Mahavamsa, a Buddhist monk named Mahinda, who was the son of Emperor Ashoka of India, is believed to have introduced Buddhism to Sri Lanka.
+
+Mahinda is said to have traveled to Sri Lanka ...
+
+Q14 [MEDIUM] — General
+Q: What is the Mahavamsa?
+   Score    : 100%
+   Time     : 51.39s
+   Triples  : 0
+   Matched  : mahavamsa, chronicle, sri lanka, history, pali
+   Missing  : 
+   Answer   : The Mahavamsa (Sinhala: මහවම වම්ම; romanized: Mahāvamsa) is an ancient chronicle of Sri Lanka, considered one of the most important historical texts in the country. It was written in Pali, a classical language of ancient India and Southeast Asia, bet...
+
+Q15 [HARD] — Multi-hop
+Q: Which king built the Jetavanaramaya and why is it significant?
+   Score    : 80%
+   Time     : 67.39s
+   Triples  : 0
+   Matched  : mahasena, jetavana, tallest, built
+   Missing  : stupa
+   Answer   : The Jetavanaramaya, also known as the Temple of the Ten Thousand Columns, was built by King Mahasena (also known as Mahasen or Mahasen I) in the 1st century BC. According to historical records in the Mahavamsa, a sacred chronicle of Sri Lanka's histo...
+
+Q16 [HARD] — Multi-hop
+Q: What is the connection between Vijaya and the founding of Sri Lanka?
+   Score    : 60%
+   Time     : 68.5s
+   Triples  : 0
+   Matched  : vijaya, sri lanka, prince
+   Missing  : founded, tambaparni
+   Answer   : A great question about one of the most fascinating periods in Sri Lankan history!
+
+According to the Mahavamsa, a sacred chronicle of ancient Sri Lanka, Vijaya was a prince from the kingdom of Magadha (present-day India) who played a crucial role in t...
+
+Q17 [HARD] — Multi-hop
+Q: How did Mahinda introduce Buddhism to Sri Lanka and who was the king at that time?
+   Score    : 80%
+   Time     : 43.9s
+   Triples  : 0
+   Matched  : mahinda, buddhism, mihintale, 247
+   Missing  : devanampiyatissa
+   Answer   : A great question about one of the most significant events in Sri Lankan history!
+
+According to the Mahavamsa, a chronicle of ancient Sri Lanka, Mahinda, an Indian Buddhist monk, introduced Buddhism to Sri Lanka in 247 BCE. At that time, the king of S...
+
+Q18 [HARD] — Multi-hop
+Q: What structures did Dutugamunu build in Anuradhapura?
+   Score    : 60%
+   Time     : 61.54s
+   Triples  : 1
+   Matched  : dutugamunu, anuradhapura, stupa
+   Missing  : ruwanweli, brazen palace
+   Answer   : Dutugamunu, the third king of the Sinhalese dynasty, built several notable structures in Anuradhapura during his reign. According to the Mahavamsa, a sacred chronicle of Sri Lanka, Dutugamunu constructed the following structures:
+
+1. The Dagabas: A s...
+
+Q19 [HARD] — Multi-hop
+Q: Who was Parakramabahu and what was his greatest achievement?
+   Score    : 40%
+   Time     : 64.08s
+   Triples  : 0
+   Matched  : parakramabahu, polonnaruwa
+   Missing  : irrigation, sea, unified
+   Answer   : Parakramabahu I (also known as Parakramabahu the Great) was a king of Sri Lanka who ruled from 1153 to 1186 CE. He is considered one of the most important figures in Sri Lankan history.
+
+One of Parakramabahu's greatest achievements was his military c...
+
+Q20 [HARD] — Multi-hop
+Q: What is the relationship between Anuradhapura and the sacred Bo Tree?
+   Score    : 100%
+   Time     : 56.22s
+   Triples  : 1
+   Matched  : anuradhapura, bo tree, sanghamitta, buddhism, sacred
+   Missing  : 
+   Answer   : In the Mahavamsa, the ancient Sri Lankan chronicle, Anuradhapura holds a significant place of reverence due to its association with the sacred Bo Tree (Sri Maha Bodhi). According to historical accounts in the Mahavamsa, the Bo Tree was planted by Emp...
+
+
+SCORECARD TABLE (for report):
+=================================================================
+ID    Category       Difficulty Score    Time     Triples
+-----------------------------------------------------------------

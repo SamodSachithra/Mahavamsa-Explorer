@@ -1,0 +1,283 @@
+NER SUMMARY REPORT
+============================================================
+
+Total documents processed : 180
+Total entities found      : 5447
+
+PLACE (1298 unique):
+    95x  වූ
+    66x  රන්
+    48x  අනුරාධපුරය
+    42x  ලංකාව
+    40x  බුදු
+    40x  මුළු
+    40x  දකුණු
+    38x  දවේ
+    35x  කරවා
+    34x  ගයේ
+    33x  දළදා
+    27x  දඹදිව
+    27x  ගංගා
+    27x  ත්
+    25x  එයින්
+    20x  පැවැත්වීය
+    19x  බිය
+    18x  මහාවංශ
+    18x  පසුව
+    18x  ගල්
+
+PERSON (591 unique):
+    59x  විජය
+    49x  රජු ගයේ
+    38x  පරාක්‍රමබාහු
+    24x  ගත් ත්ය
+    21x  විජයබාහු
+    20x  මහින්ද
+    20x  දුටුගැමුණු
+    20x  ගයේ
+    19x  කාශ්‍යප
+    19x  ත්ය
+    18x  රාජසිංහ
+    17x  බුදුරජාණන්
+    17x  රජතුමා
+    16x  ගිය
+    15x  උදය
+    14x  ගජබා
+    14x  අැතුන්
+    13x  පිට
+    12x  සංඝමිත්තා
+    11x  එළාර
+
+EVENT (15 unique):
+    56x  මරණය
+    54x  යුද්ධය
+    48x  උපත
+    36x  පැමිණීම
+    21x  ජයග්‍රහණය
+    12x  දායකත්වය
+    11x  නිර්මාණය
+    10x  ආක්‍රමණය
+     9x  පරිනිර්වාණය
+     7x  ධර්ම සංගායනා
+     5x  ගිවිසුම
+     4x  විහාර ඉදිකිරීම
+     3x  බුද්ධත්වය
+     3x  සිංහාසනය
+     1x  පලා යාම
+
+STRUCTURE (9 unique):
+    16x  මහා විහාරය
+    13x  ථූපාරාමය
+     7x  අභයගිරි විහාරය
+     5x  රත්න ප්‍රාසාදය
+     5x  අභයගිරිය
+     4x  මිරිසවැටිය
+     4x  පරාක්‍රම සමුද්‍රය
+     1x  රුවන්වැලි සෑය
+     1x  මල්වතු විහාරය
+
+ORGANIZATION (327 unique):
+    51x  තුන්
+    35x  රජතුමා
+    27x  ූන්
+    24x  රාජ්‍ය
+    22x  ර්න්ද්‍ර
+    13x  වචන
+    13x  බි
+    12x  ද්ශනා
+    11x  විජයබාහු
+    10x  මාවුන්
+    10x  අසල
+     9x  ධාතූන්
+     8x  වා්ය
+     8x  වංශයේ
+     7x  එතැන
+     7x  දැමූ
+     7x  රාජ්‍යත්ව
+     6x  දනාම
+     6x  වාහන
+     5x  විශාලා
+
+
+PER DOCUMENT SUMMARY:
+------------------------------------------------------------
+  Ch.  0  Preface                                   1 entities  [mahavamsa.pdf]
+  Ch.  1  තථාගතාභිගමනය                              11 entities  [mahavamsa.pdf]
+  Ch. 24  ද් වභාතික යුද්ධය                          6 entities  [mahavamsa.pdf]
+  Ch. 54  තුන්වන ස්න, හතරවන මිහි දු හා පස්වන ස්න    7 entities  [mahavamsa.pdf]
+  Ch. 81  විජයබාහු රජු ග් පාලනය සහ ශාසන සංග්‍රහය    112 entities  [mahavamsa.pdf]
+  Ch.  1  තථාගතාභිගමනය                              48 entities  [mahavamsa.pdf]
+  Ch.  2  මහා සම්මත රාජ වංශය                        17 entities  [mahavamsa.pdf]
+  Ch.  3  ප්‍රථම ධර්ම සංගායනාව                      25 entities  [mahavamsa.pdf]
+  Ch.  4  දවැනි ධර්ම සංගායනාව                       46 entities  [mahavamsa.pdf]
+  Ch.  5  ධර්මා ශා්ක රජු සහ තෘතීය ධර්ම සංගායනාව     120 entities  [mahavamsa.pdf]
+  Ch.  6  විජයාගමනය                                 34 entities  [mahavamsa.pdf]
+  Ch.  7  විජය කුමරැ ග් පැමිණීම සහ රාජාභි ්කය       45 entities  [mahavamsa.pdf]
+  Ch.  8  පණ්ඩුවාස ද්ව රජු ග් අභි ්කය               18 entities  [mahavamsa.pdf]
+  Ch.  9  අභයාභි ්කය                                28 entities  [mahavamsa.pdf]
+  Ch. 10  පණ්ඩුකාභය අභි ්කය                         45 entities  [mahavamsa.pdf]
+  Ch. 11  ද්වානම්පියතිස්ස රජු ග් අභි ්කය            26 entities  [mahavamsa.pdf]
+  Ch. 37  තාම්‍රලිප්ති යහි දී නැවේ නැගී, දඹ කාළ පට  4 entities  [mahavamsa.pdf]
+  Ch. 12  නානා ද්ශයන්හි බුදු සසුන් පිහිටුවීම        37 entities  [mahavamsa.pdf]
+  Ch. 13  මහින්දාගමනය                               17 entities  [mahavamsa.pdf]
+  Ch. 14  නගර ප්‍ර වේශය                             38 entities  [mahavamsa.pdf]
+  Ch. 15  මහා විහාරය පිළිගැනීම                      90 entities  [mahavamsa.pdf]
+  Ch. 16  ච්තිය පර්වත විහාර පූජාව                   9 entities  [mahavamsa.pdf]
+  Ch. 12  ච්ති ගිරි විහාර පූජාව සහ සීමා බෙන්ධන      2 entities  [mahavamsa.pdf]
+  Ch. 17  දවි මිනිස් සමූහයා තමන් වත පැමිණියා වූ ඒ   44 entities  [mahavamsa.pdf]
+  Ch. 18  මහා බා්ධිය වැඩම කරවීම                     42 entities  [mahavamsa.pdf]
+  Ch. 19  ජය ශ්‍රී මහා බා්ධීන් වහන් ස් ග් වැඩම කරව  63 entities  [mahavamsa.pdf]
+  Ch. 20  තර තරණි පිරිනිවන් පෑම                     27 entities  [mahavamsa.pdf]
+  Ch. 21  පස් රජුන් සහ එළාර රජු ග් ධර්මි ්ඨ බව      26 entities  [mahavamsa.pdf]
+  Ch. 22  ගාමිණී කුමාර ප්‍රසූතිය                    45 entities  [mahavamsa.pdf]
+  Ch. 23  යා්ධයන් ලැබීම                             43 entities  [mahavamsa.pdf]
+  Ch. 24  ද් වභාතික යුද්ධය                          35 entities  [mahavamsa.pdf]
+  Ch. 25  දුටුගැමුණු රජු ග් විජයග්‍රහණය             69 entities  [mahavamsa.pdf]
+  Ch. 26  මිරිසවැටි විහාර පූජාව                     23 entities  [mahavamsa.pdf]
+  Ch. 27  ලා්වාමහාපාය කිරීම                         31 entities  [mahavamsa.pdf]
+  Ch. 28  මහා සෑයට අවශ්‍ය ද්‍රව්‍ය ලැබීම            22 entities  [mahavamsa.pdf]
+  Ch. 29  මහා ථූප කර්මාන්තය අාරම්භ කිරීම            35 entities  [mahavamsa.pdf]
+  Ch. 30  ධාතු ගර්භ වර්ණනාව                         55 entities  [mahavamsa.pdf]
+  Ch. 31  ධාතු නිධාන                                59 entities  [mahavamsa.pdf]
+  Ch. 32  තුසිත පුර ගමනය                            39 entities  [mahavamsa.pdf]
+  Ch. 33  දස රජ පුවත                                52 entities  [mahavamsa.pdf]
+  Ch. 34  එකාදසරාජදීපන (එ කා ළාස් රජුන් ග් පුවත)    40 entities  [mahavamsa.pdf]
+  Ch. 35  දා ළාස් රජුන් පිළිබ ද කතාව                50 entities  [mahavamsa.pdf]
+  Ch. 36  රජවරැන් දහතුන් දනා                        68 entities  [mahavamsa.pdf]
+  Ch. 37  පංච රාජක පරිච් ඡේදය                       119 entities  [mahavamsa.pdf]
+  Ch. 38  දස රජවරැන් සහ ධාතු ස්න රජු                68 entities  [mahavamsa.pdf]
+  Ch. 39  කසුප් සහ මුගලන් රජුන් ග් රාජ්‍ය සමය       47 entities  [mahavamsa.pdf]
+  Ch. 40  අට රජුන් ග් පුවත                          54 entities  [mahavamsa.pdf]
+  Ch. 41  මහානාග සහ අග්ග බා්ධි රජවරැන් ග් පුවත      42 entities  [mahavamsa.pdf]
+  Ch. 42  සඟතිස්, මුගලන් සහ අසිග්ගාහක රජවරැන් ග්    87 entities  [mahavamsa.pdf]
+  Ch. 43  සතර රජවරැන් ග් පුවත                       46 entities  [mahavamsa.pdf]
+  Ch. 44  රජවරැන් ති ද නකු ග් පුවත                  19 entities  [mahavamsa.pdf]
+  Ch. 45  මාණවම්ම රජු ග් රාජ්‍ය ප්‍රාප්තිය          91 entities  [mahavamsa.pdf]
+  Ch. 49  පස් රජුන් ග් පුවත                         40 entities  [mahavamsa.pdf]
+  Ch. 50  පාණ්ඩ්‍ය අාක්‍රමණය සහ ස්න රජු ග් පාලනය    52 entities  [mahavamsa.pdf]
+  Ch. 51  රජවරැන් ද ද නකු ග් විස්තරය                69 entities  [mahavamsa.pdf]
+  Ch. 52  කසුබ් රජවරැන් ග් පුවත                     48 entities  [mahavamsa.pdf]
+  Ch. 53  පස් රජවරැන් ග් කතා පුවත                   32 entities  [mahavamsa.pdf]
+  Ch. 54  තුන්වන ස්න, හතරවන මිහි දු හා පස්වන ස්න    39 entities  [mahavamsa.pdf]
+  Ch. 55  ලංකා වි ලා්පය                             20 entities  [mahavamsa.pdf]
+  Ch. 56  වික්‍රමබාහු අැතුළු සය රාජක වෘත්තාන්තය     15 entities  [mahavamsa.pdf]
+  Ch. 57  රැහුණු රට ජය ගැනීම                        45 entities  [mahavamsa.pdf]
+  Ch. 58  අනුරාධපුරයට පිවිසීම                       44 entities  [mahavamsa.pdf]
+  Ch. 59  විජයබාහු රජු ග් රාජ්‍ය විචාරීම සහ පවුල්   25 entities  [mahavamsa.pdf]
+  Ch. 60  ලා්ක ශාසන සංග්‍රහය                        46 entities  [mahavamsa.pdf]
+  Ch. 61  සිවේ රජුන් ග් පුවත                        53 entities  [mahavamsa.pdf]
+  Ch. 62  කුමා රා්දය                                31 entities  [mahavamsa.pdf]
+  Ch. 63  සංඛනායකත්ථලි ගමනය                         22 entities  [mahavamsa.pdf]
+  Ch. 64  පරමණ්ඩලාභි ගමනය                           39 entities  [mahavamsa.pdf]
+  Ch. 65  ස්නාපති සංඛ මැරවීම                        29 entities  [mahavamsa.pdf]
+  Ch. 66  පරමණ්ඩල ප්‍රවෘත්ති නිර්ණය (වි ද්ශ රාජ්‍ය  63 entities  [mahavamsa.pdf]
+  Ch. 67  මහාදිපාද පදවි ප්‍රාප්තිය                  53 entities  [mahavamsa.pdf]
+  Ch. 68  රට ස්වයං පා් ිත කිරීම                     29 entities  [mahavamsa.pdf]
+  Ch. 69  ධනය හා ස්නාව රැස් කිරීම                   21 entities  [mahavamsa.pdf]
+  Ch. 70  රාජ්‍ය දානය                               86 entities  [mahavamsa.pdf]
+  Ch. 72  අභි ්ක මංගල නිර් ද්ශය                     130 entities  [mahavamsa.pdf]
+  Ch. 73  පුලස්ති පුර ප්‍රතිසංස්කරණය                86 entities  [mahavamsa.pdf]
+  Ch. 75  රැහුණු රට දිනා ගැනීම                      155 entities  [mahavamsa.pdf]
+  Ch. 76  රාජිනා පුරය අත්පත් කර ගැනීම               129 entities  [mahavamsa.pdf]
+  Ch. 77  ප ඬිරට ජය ගැනීම                           41 entities  [mahavamsa.pdf]
+  Ch. 78  විහාර කරවීම                               47 entities  [mahavamsa.pdf]
+  Ch. 79  උයන් වතු හා වාරි කර්මාන්ත                 32 entities  [mahavamsa.pdf]
+  Ch. 80  සා ළාස් රජුන් ග් පුවත                     10 entities  [mahavamsa.pdf]
+  Ch. 10  යහපත් ස්වභාවය හා පවිත්‍ර බව ප්‍රමුඛ කාට   41 entities  [mahavamsa.pdf]
+  Ch. 80  ම තකින් හුදී ජනයා ග් පහන් සං වේගය පිණිස   41 entities  [mahavamsa.pdf]
+  Ch. 82  දළදා ප්‍රාතිහාර්යය සහ පරාක්‍රමබාහු රජු ග  38 entities  [mahavamsa.pdf]
+  Ch. 83  සතුරන් මර්දනය හා විජයග්‍රහණය              26 entities  [mahavamsa.pdf]
+  Ch. 84  ශාස නා්පකාරය                              20 entities  [mahavamsa.pdf]
+  Ch. 25  මහා රළු පිළි වත් පුරන උන්වහන් ස්ලා ලවා ඒ  16 entities  [mahavamsa.pdf]
+  Ch. 85  විවිධ පුණ්‍ය ක්‍රියා වර්ණනාව              46 entities  [mahavamsa.pdf]
+  Ch. 86  විවිධ කුසල කර්මයන් කරවීම                  37 entities  [mahavamsa.pdf]
+  Ch. 87  රාජ්‍ය භාරය පැවරීම                        34 entities  [mahavamsa.pdf]
+  Ch. 88  පුලස්තිපුරය කරවීම                         53 entities  [mahavamsa.pdf]
+  Ch. 89  අභි ්ක මංගල්‍යය සහ උපසම්පදා               39 entities  [mahavamsa.pdf]
+  Ch. 90  විජයබාහු රජු ග් අැවෑම සහ යාපවේ, කුරැණෑගල  55 entities  [mahavamsa.pdf]
+  Ch. 91  පරාක්‍රමබාහු රජු සහ ජයවර්ධනපුර කා්ට් ට්   24 entities  [mahavamsa.pdf]
+  Ch. 92  ජයබාහු රජු අැතුළු රාජ පරම්පරාව හා         20 entities  [mahavamsa.pdf]
+  Ch. 93  මායාදුන් න් සහ රාජසිංහ රජුන් ග් පුවත      14 entities  [mahavamsa.pdf]
+  Ch. 94  පළමුවන විමලධර්මසූරිය රජු සහ ශාසන          19 entities  [mahavamsa.pdf]
+  Ch. 95  ස්නාරත්න රජතුමා සහ පරංගි අාක්‍රමණය        29 entities  [mahavamsa.pdf]
+  Ch. 96  දවන රාජසිංහ රාජ විස්තරය                   33 entities  [mahavamsa.pdf]
+  Ch. 97  විමලධර්මසූරිය සහ න ර්න්ද්‍රසිංහ රාජ්‍ය ස  31 entities  [mahavamsa.pdf]
+  Ch. 98  ශ්‍රී විජය රාජසිංහ රාජ්‍ය කාලය            44 entities  [mahavamsa.pdf]
+  Ch. 99  කීර්ති ශ්‍රී රාජසිංහ රාජාභි ්කය           48 entities  [mahavamsa.pdf]
+  Ch. 89  ම ස් ලබන ලද යසස් අැති ඒ ද දනා ද (යුවරජවර  50 entities  [mahavamsa.pdf]
+  Ch.100  කීර්ති ශ්‍රී රාජසිංහ රජු සහ ශාසන පුනර්ජී  89 entities  [mahavamsa.pdf]
+  Ch.101  ශ්‍රී රාජාධිරාජසිංහ හා ශ්‍රී වික්‍රමරාජස  134 entities  [mahavamsa.pdf]
+  Ch.200  පළමුවන පරාක්‍රමබාහු                       2 entities  [Kings.pdf]
+  Ch.201  පළමුවන පරාක්‍රමබාහු                       7 entities  [Kings.pdf]
+  Ch.202  පළමුවන විජයබාහු රජු                       21 entities  [Kings.pdf]
+  Ch.203  විජය රජු                                  1 entities  [Kings.pdf]
+  Ch.204  විජය රජු                                  15 entities  [Kings.pdf]
+  Ch.205  විජය රජු                                  3 entities  [Kings.pdf]
+  Ch.206  පළමුවන කාශ්‍යප රජු                        1 entities  [Kings.pdf]
+  Ch.207  පළමුවන කාශ්‍යප රජු                        18 entities  [Kings.pdf]
+  Ch.208  පස්වන මහින්ද රජු                          3 entities  [Kings.pdf]
+  Ch.209  පස්වන මහින්ද රජු                          22 entities  [Kings.pdf]
+  Ch.210  පළමුවන විජයබාහු රජු                       3 entities  [Kings.pdf]
+  Ch.211  පළමුවන විජයබාහු රජු                       28 entities  [Kings.pdf]
+  Ch.212  ගෞතම බුදුරජාණන්                           2 entities  [Kings.pdf]
+  Ch.213  ගෞතම බුදුරජාණන්                           20 entities  [Kings.pdf]
+  Ch.214  මහා දුටුගැමුණු රජු                        1 entities  [Kings.pdf]
+  Ch.215  මහා දුටුගැමුණු රජු                        1 entities  [Kings.pdf]
+  Ch.216  එළාර රජු                                  11 entities  [Kings.pdf]
+  Ch.217  එළාර රජු                                  22 entities  [Kings.pdf]
+  Ch.218  පළමුවන ගජබාහු රජු                         2 entities  [Kings.pdf]
+  Ch.219  පළමුවන ගජබාහු රජු                         19 entities  [Kings.pdf]
+  Ch.220  පළමුවන රාජසිංහ රජු                        3 entities  [Kings.pdf]
+  Ch.221  පළමුවන රාජසිංහ රජු                        22 entities  [Kings.pdf]
+  Ch.222  සංඝමිත්තා                                 11 entities  [Kings.pdf]
+  Ch.223  උත්තිය රජු                                2 entities  [Kings.pdf]
+  Ch.224  සංඝමිත්තා                                 17 entities  [Kings.pdf]
+  Ch.225  උපිස්ස රජු                                2 entities  [Kings.pdf]
+  Ch.226  උපිස්ස රජු                                2 entities  [Kings.pdf]
+  Ch.227  විජය රජු                                  6 entities  [Kings.pdf]
+  Ch.228  විජය රජු                                  1 entities  [Kings.pdf]
+  Ch.229  විජය රජු                                  3 entities  [Kings.pdf]
+  Ch.230  විජය රජු                                  9 entities  [Kings.pdf]
+  Ch.231  උපිස්ස රජු                                1 entities  [Kings.pdf]
+  Ch.232  බුද්ධදාස රජු                              5 entities  [Kings.pdf]
+  Ch.233  උපිස්ස රජු                                1 entities  [Kings.pdf]
+  Ch.234  විජය රජු                                  2 entities  [Kings.pdf]
+  Ch.235  පළමුවන උදය රජු                            3 entities  [Kings.pdf]
+  Ch.236  පළමුවන උදය රජු                            18 entities  [Kings.pdf]
+  Ch.237  පේුකාභය රජු                               6 entities  [Kings.pdf]
+  Ch.238  විජය රජු                                  1 entities  [Kings.pdf]
+  Ch.239  විජය රජු                                  15 entities  [Kings.pdf]
+  Ch.240  සංඝමිත්තා                                 4 entities  [Kings.pdf]
+  Ch.241  සංඝමිත්තා                                 17 entities  [Kings.pdf]
+  Ch.242  උත්තිය රජු                                7 entities  [Kings.pdf]
+  Ch.243  එළාර රජු                                  3 entities  [Kings.pdf]
+  Ch.244  එළාර රජු                                  24 entities  [Kings.pdf]
+  Ch.245  මහානාම රජු                                2 entities  [Kings.pdf]
+  Ch.246  මහානාම රජු                                2 entities  [Kings.pdf]
+  Ch.247  බුද්ධදාස රජු                              4 entities  [Kings.pdf]
+  Ch.248  බුද්ධදාස රජු                              3 entities  [Kings.pdf]
+  Ch.249  බුද්ධදාස රජු                              14 entities  [Kings.pdf]
+  Ch.250  දප්තපුල රජවරු                             2 entities  [Kings.pdf]
+  Ch.251  දප්තපුල රජවරු                             16 entities  [Kings.pdf]
+  Ch.252  දප්තපුල රජවරු                             2 entities  [Kings.pdf]
+  Ch.253  දප්තපුල රජවරු                             2 entities  [Kings.pdf]
+  Ch.254  දප්තපුල රජවරු                             1 entities  [Kings.pdf]
+  Ch.255  කීර්ති ශ්‍රී රාජසිංහ රජු                  31 entities  [Kings.pdf]
+  Ch.256  සංඝමිත්තා                                 10 entities  [Kings.pdf]
+  Ch.257  වලගම්බා රජු                               19 entities  [Kings.pdf]
+  Ch.258  ශ්‍රී වික්‍රමරාජසිංහ රජු                  4 entities  [Kings.pdf]
+  Ch.259  ශ්‍රී වික්‍රමරාජසිංහ රජු                  8 entities  [Kings.pdf]
+  Ch.260  කීර්ති ශ්‍රී රාජසිංහ රජු                  7 entities  [Kings.pdf]
+  Ch.261  කීර්ති ශ්‍රී රාජසිංහ රජු                  19 entities  [Kings.pdf]
+  Ch.262  වසභ රජු                                   3 entities  [Kings.pdf]
+  Ch.263  වසභ රජු                                   21 entities  [Kings.pdf]
+  Ch.264  බුද්ධදාස රජු                              3 entities  [Kings.pdf]
+  Ch.265  බුද්ධදාස රජු                              20 entities  [Kings.pdf]
+  Ch.266  උපිස්ස රජු                                10 entities  [Kings.pdf]
+  Ch.267  මහාදාඨික මහානාග රජු                       37 entities  [Kings.pdf]
+  Ch.268  විජය රජු                                  8 entities  [Kings.pdf]
+  Ch.269  විජය රජු                                  22 entities  [Kings.pdf]
+  Ch.270  සංඝමිත්තා                                 15 entities  [Kings.pdf]
+  Ch.271  එළාර රජු                                  4 entities  [Kings.pdf]
+  Ch.272  එළාර රජු                                  7 entities  [Kings.pdf]
+  Ch.273  පළමුවන පරාක්‍රමබාහු                       25 entities  [Kings.pdf]

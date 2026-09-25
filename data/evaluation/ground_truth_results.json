@@ -1,0 +1,95 @@
+{
+  "summary": {
+    "total_questions": 5,
+    "average_keyword_score": 0.24,
+    "average_overlap_score": 0.21,
+    "average_combined_score": 0.23,
+    "possible_hallucinations": 1
+  },
+  "results": [
+    {
+      "id": "GT01",
+      "question": "Who was Vijaya?",
+      "category": "Person",
+      "difficulty": "easy",
+      "mode": "rag",
+      "ground_truth": "Vijaya was a prince exiled from India by his father Sinhabahu for violent and unruly behaviour. He landed in Sri Lanka at Tambapanni with 700 followers on the day of the Buddha's death, around 543 BCE. He married Kuveni, a local yaksha princess who helped him, but later abandoned her to marry a Pandyan princess from India. He is considered the founder of the Sinhalese royal lineage and ruled for about 38 years.",
+      "model_answer": "Vijaya was a king of the ancient Indian kingdom of Magadha. He is mentioned in several ancient Indian texts, including the Mahavamsa and the Puranas. According to legend, Vijaya was a powerful king who ruled over the kingdom of Magadha during the 6th century BCE.\n\nOne of the most famous stories about Vijaya is his encounter with the Buddha, Siddhartha Gautama, in the city of Kapilavastu. The story goes that Vijaya was a ruler of the Shakya clan and had heard about the Buddha's teachings from his father, King Suddhodana. Vijaya was skeptical about the Buddha's claims and decided to test him by sending an army to attack the Buddha.\n\nHowever, when the army arrived at Kapilavastu, they were met with a fierce resistance from the Buddha's followers. The Buddha then appeared before Vijaya and his army, and using his supernatural powers, he defeated them without firing a single arrow. This event is said to have convinced Vijaya of the Buddha's divinity and led him to become one of the most devoted followers of Buddhism.\n\nVijaya later became a prominent figure in Buddhist history, serving as a governor of Magadha under the patronage of Emperor Ashoka. He played an important role in spreading Buddhism throughout India and was instrumental in establishing several monasteries and temples.\n\nIt's worth noting that while Vijaya is mentioned in many ancient texts, his historical existence is not universally accepted among scholars. Some consider him to be a mythical figure or a legendary king who may have been inspired by real events or people.",
+      "keyword_score": 0.2,
+      "keywords_matched": [
+        "vijaya"
+      ],
+      "word_overlap_score": 0.24,
+      "combined_score": 0.22,
+      "possible_hallucination": false,
+      "response_time_seconds": 112.3
+    },
+    {
+      "id": "GT02",
+      "question": "Who defeated Elara?",
+      "category": "Battle",
+      "difficulty": "medium",
+      "mode": "rag",
+      "ground_truth": "King Dutugamunu of Ruhuna defeated King Elara, a Tamil Chola ruler who had governed Anuradhapura for 44 years, in single combat at the Vijithapura battle around 161 BCE. Despite being an invader, Elara was respected by Dutugamunu as a righteous king, and after the victory Dutugamunu gave him a royal funeral and built a monument over his cremation site, known as Elara's tomb.",
+      "model_answer": "Dhammika Tissa",
+      "keyword_score": 0.0,
+      "keywords_matched": [],
+      "word_overlap_score": 0.0,
+      "combined_score": 0.0,
+      "possible_hallucination": true,
+      "response_time_seconds": 58.97
+    },
+    {
+      "id": "GT03",
+      "question": "What did Dutugamunu build after winning the war?",
+      "category": "Structure",
+      "difficulty": "medium",
+      "mode": "rag",
+      "ground_truth": "After defeating Elara and unifying Sri Lanka, King Dutugamunu built the Ruwanwelisaya stupa (also called Mahathupa or Swarnamali) in Anuradhapura, enshrining relics of the Buddha. He also built other structures including Miriswetiya, Thuparamaya restorations, the Lovamahapaya (Brazen Palace), and several Buddhist monasteries.",
+      "model_answer": "After winning the war, Dutugamunu built a number of cities and fortifications in Sri Lanka. One of his notable achievements was the construction of a city called Mahaweli, which is now known as Trincomalee. He also built a number of other cities and fortifications, including one at the mouth of the Mahaweli River.\n\nIt's worth noting that Dutugamunu was a king who ruled Sri Lanka in the 3rd century BC, and his reign marked an important period in the country's history. During his time, he expanded the kingdom's borders through military conquests and established a number of new cities and fortifications to secure its territories.\n\nIn addition to building cities and fortifications, Dutugamunu also implemented various administrative and economic reforms during his reign. He is remembered as one of the most important kings in Sri Lankan history, and his legacy continues to be celebrated and studied by historians and scholars today.",
+      "keyword_score": 0.25,
+      "keywords_matched": [
+        "built"
+      ],
+      "word_overlap_score": 0.3,
+      "combined_score": 0.28,
+      "possible_hallucination": false,
+      "response_time_seconds": 45.39
+    },
+    {
+      "id": "GT04",
+      "question": "Who was King Kashyapa and what is his connection to Sigiriya?",
+      "category": "Person",
+      "difficulty": "hard",
+      "mode": "rag",
+      "ground_truth": "King Kashyapa I (Kassapa I) ruled from around 473 to 495 CE. He seized the throne after imprisoning and killing his father, King Dhatusena, fearing retaliation from his half-brother Moggallana, the rightful heir who fled to India. Fearing Moggallana's return, Kashyapa built his royal capital and palace on top of the Sigiriya rock fortress for both military defence and as a pleasure palace. When Moggallana returned with an army in 495 CE, Kashyapa came down to fight and, facing defeat, killed himself with his own sword.",
+      "model_answer": "King Kashyapa was a king of the ancient kingdom of Anuradhapura in Sri Lanka. He had a significant connection to Sigiriya, which was then known as Mahasenagiri or Mahasenapura.\n\nSigiriya was an important stronghold and fortress built during King Kashyapa's reign (around 477-495 CE). The king is believed to have constructed the famous Lion's Rock (Sinhala: මහවත රක්ෂ) in Sigiriya, which is a UNESCO World Heritage Site and one of Sri Lanka's most iconic landmarks.\n\nKing Kashyapa was also known for his military campaigns against neighboring kingdoms, including the Tamil kingdom of Madurai. He expanded Anuradhapura's territories through these conquests and strengthened its position as a major power in ancient Sri Lanka.\n\nOverall, King Kashyapa played an important role in shaping Sigiriya into the strategic fortress it became during his reign, and his legacy continues to be celebrated in Sri Lanka today.",
+      "keyword_score": 0.25,
+      "keywords_matched": [
+        "sigiriya"
+      ],
+      "word_overlap_score": 0.19,
+      "combined_score": 0.22,
+      "possible_hallucination": false,
+      "response_time_seconds": 56.29
+    },
+    {
+      "id": "GT05",
+      "question": "How did Buddhism arrive in Sri Lanka?",
+      "category": "Event",
+      "difficulty": "hard",
+      "mode": "rag",
+      "ground_truth": "Buddhism was introduced to Sri Lanka by the Arahant Mahinda, son of Emperor Ashoka of India, during the reign of King Devanampiyatissa around 247 BCE. Mahinda preached to the king at Mihintale, after which the king converted and Buddhism became the state religion. Shortly after, Sanghamitta, Mahinda's sister, brought a sapling of the sacred Bo tree from Bodh Gaya and planted it in Anuradhapura, and established the order of nuns (bhikkhuni sasana) in Sri Lanka.",
+      "model_answer": "Buddhism arrived in Sri Lanka through the migration of Buddhist monks and traders from India. According to historical records, a group of Buddhist monks led by Mahinda and his sister Sanghamitta arrived in Sri Lanka around 288 BCE. They were invited by King Devanampiya Tissa, who had recently converted to Buddhism after hearing the teachings of the Buddha.\n\nThe arrival of Buddhism in Sri Lanka is also attributed to the efforts of Prince Rohana, a cousin of King Devanampiya Tissa, who was instrumental in introducing Buddhism to the island. He is said to have been influenced by the teachings of the Buddha and played a key role in establishing Buddhism as a major force in Sri Lankan society.\n\nOver time, Buddhism became an integral part of Sri Lankan culture and identity, with many Buddhist temples, monasteries, and statues being built throughout the island. The Mahavamsa, an ancient chronicle of Sri Lanka, provides valuable insights into the history of Buddhism in the country and its impact on Sri Lankan society.\n\nIt's worth noting that while Buddhism arrived in Sri Lanka through Indian influence, it also had a significant impact on Indian culture and society. The spread of Buddhism from Sri Lanka to other parts of Asia, including India, is believed to have occurred during this period.",
+      "keyword_score": 0.5,
+      "keywords_matched": [
+        "mahinda",
+        "buddhism"
+      ],
+      "word_overlap_score": 0.33,
+      "combined_score": 0.41,
+      "possible_hallucination": false,
+      "response_time_seconds": 45.25
+    }
+  ]
+}

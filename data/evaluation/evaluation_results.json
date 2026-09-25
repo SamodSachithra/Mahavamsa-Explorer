@@ -1,0 +1,496 @@
+{
+  "summary": {
+    "total_questions": 20,
+    "average_accuracy": 0.72,
+    "average_response_time": 54.68,
+    "results_by_difficulty": {
+      "easy": 0.75,
+      "medium": 0.7,
+      "hard": 0.7
+    },
+    "results_by_category": {
+      "Battle": 0.7,
+      "Event": 0.6,
+      "General": 1.0,
+      "Location": 0.8,
+      "Multi-hop": 0.7,
+      "Person": 0.67,
+      "Place": 0.9,
+      "Structure": 0.6
+    }
+  },
+  "results": [
+    {
+      "id": "Q01",
+      "question": "Who was Vijaya?",
+      "category": "Person",
+      "difficulty": "easy",
+      "answer": "A great question about one of Sri Lanka's most revered figures!\n\nVijaya (also known as Vijaya Sena) was a legendary king who is said to have founded the kingdom of Sri Lanka in the 3rd century BCE. According to the Mahavamsa, a chronicle that records the history of Sri Lanka from ancient times to the 5th century CE, Vijaya was a prince from the Indian subcontinent who was exiled by his brother and set sail for Sri Lanka.\n\nThe story goes that Vijaya's brother, Pandya, had usurped the throne in India, and Vijaya was forced to flee. He arrived on the island of Taprobane (now known as Sri Lanka) with a small group of followers and established the first kingdom of Sri Lanka.\n\nVijaya is said to have been a wise and just ruler, who brought peace and prosperity to his new kingdom. He is also credited with introducing Buddhism to Sri Lanka, which became an integral part of the island's culture and identity.\n\nHistorically, Vijaya's reign is believed to have lasted from around 300 BCE to 277 BCE, although the exact dates are not certain. During his rule, he established a strong and stable government, built temples and monuments, and promoted trade and commerce.\n\nToday, Vijaya is revered as one of Sri Lanka's most important historical figures, and his legacy continues to be celebrated in the country's culture and traditions.",
+      "response_time_seconds": 43.18,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "vijaya",
+        "prince",
+        "lanka",
+        "arrived"
+      ],
+      "keywords_expected": [
+        "vijaya",
+        "prince",
+        "lanka",
+        "arrived",
+        "sinhabahu"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q02",
+      "question": "Who was King Pandukabhaya?",
+      "category": "Person",
+      "difficulty": "easy",
+      "answer": "King Pandukabhaya (also known as Pandya) was a legendary king of Sri Lanka who is said to have ruled the country in the 5th century BC. According to the Mahavamsa, one of the most important chronicles of ancient Sri Lanka, Pandukabhaya was the founder of the Polonnaruwa Kingdom.\n\nHistorically, Pandukabhaya is believed to have been a powerful king who united various tribes and chieftains under his rule, creating a strong and centralized state. He is said to have established the capital city of Anuradhapura, which would later become one of the most important cities in Sri Lanka.\n\nPandukabhaya's reign is also notable for its military campaigns against neighboring kingdoms and the expansion of Sri Lankan territory. He is said to have conquered many territories, including parts of present-day India and Southeast Asia.\n\nIn terms of practical travel information, Anuradhapura, where Pandukabhaya is believed to have ruled, is a UNESCO World Heritage Site located in the North Central Province of Sri Lanka. It is about 200 km (124 miles) northeast of Colombo, the capital city of Sri Lanka.\n\nVisitors can explore the ancient city's ruins, including the Dagabas (stupa-like structures), temples, and other historical sites. The most famous site is the Mahabodhi Temple, which was built by Pandukabhaya himself.\n\nTo visit Anuradhapura, travelers can take a domestic flight from Colombo to Anuradhapura Airport or take a bus or train from Colombo. From there, they can hire a taxi or take a guided tour to explore the city's historical sites.\n\nIt is worth noting that while Pandukabhaya's existence is not historically verified, his legacy as a great king and founder of the Polonnaruwa Kingdom has endured for centuries in Sri Lankan history and culture.",
+      "response_time_seconds": 41.62,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "pandukabhaya",
+        "king",
+        "anuradhapura",
+        "capital"
+      ],
+      "keywords_expected": [
+        "pandukabhaya",
+        "king",
+        "anuradhapura",
+        "founded",
+        "capital"
+      ],
+      "graph_triples_count": 1,
+      "location_detected": false
+    },
+    {
+      "id": "Q03",
+      "question": "Who was Mahinda?",
+      "category": "Person",
+      "difficulty": "easy",
+      "answer": "Mahinda (මහින්ත) was a renowned Buddhist monk and the brother of Emperor Devanampiya Tissa of Sri Lanka. He is considered one of the most important figures in the history of Buddhism in Sri Lanka.\n\nAccording to the Mahavamsa, a sacred chronicle of Sri Lanka's history, Mahinda arrived on the island in 247 BCE with his uncle, Emperor Ashoka's emissary, Nigrodha. Their mission was to introduce Buddhism to the people of Sri Lanka and establish it as the official state religion.\n\nMahinda is said to have traveled extensively throughout the island, preaching the teachings of Buddhism and establishing monasteries and temples. He also played a crucial role in converting many Sri Lankans to Buddhism, including Emperor Devanampiya Tissa himself.\n\nOne of Mahinda's most notable achievements was his conversion of King Devanampiya Tissa, who had previously been an atheist and had even destroyed the Buddha's relics that were brought to Sri Lanka by his predecessor. After being introduced to Buddhism by Mahinda, King Devanampiya Tissa became a devout Buddhist and built many temples and monasteries throughout the island.\n\nToday, Mihintale, located in the North Central Province of Sri Lanka, is considered one of the most sacred sites in the country, as it was here that Mahinda introduced Buddhism to Sri Lanka. The site features several ancient ruins, including a stupa (a Buddhist monument) and a temple dedicated to Mahinda.\n\nVisitors can travel to Mihintale by bus or taxi from the nearby town of Anuradhapura, which is about 30 kilometers away. The journey takes around 1-2 hours depending on traffic conditions. Once you arrive at Mihintale, you can explore the ancient ruins and temples, and learn more about the history of Buddhism in Sri Lanka through guided tours or self-guided exploration.\n\nIt's worth noting that while visiting Mihintale, it's essential to dress modestly and remove your shoes when entering temples or other sacred sites. Additionally, be respectful of local customs and traditions, as Mihintale is a significant cultural and historical site in Sri Lanka.",
+      "response_time_seconds": 48.53,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "mahinda",
+        "buddhism",
+        "sri lanka",
+        "mission"
+      ],
+      "keywords_expected": [
+        "mahinda",
+        "buddhism",
+        "sri lanka",
+        "mission",
+        "thera"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q04",
+      "question": "Who was Sanghamitta?",
+      "category": "Person",
+      "difficulty": "easy",
+      "answer": "Sanghamitta (also known as Sanga Mitha) was a Buddhist nun and princess of ancient Sri Lanka. She played a significant role in the introduction of Buddhism to Sri Lanka, which had been introduced by the Indian emperor Ashoka's son Mahinda.\n\nAccording to the Mahavamsa, Sanghamitta was sent to Sri Lanka by Emperor Ashoka as an envoy to establish Buddhism on the island. She arrived at Anuradhapura, the capital city of ancient Sri Lanka, in 288 BCE and is said to have brought with her a sapling of the Bodhi Tree under which Buddha attained enlightenment.\n\nSanghamitta's mission was successful, and she established the first Buddhist monastery in Sri Lanka, known as Mahabodhi. She also introduced the concept of vegetarianism and the practice of meditation to the people of Sri Lanka.\n\nHistorically, Sanghamitta is considered a symbol of Buddhism in Sri Lanka, and her legacy continues to be celebrated by Buddhists around the world. Today, she is revered as a patron saint of Sri Lanka, and her image appears on various coins and currency notes.\n\nPractically speaking, visiting the Mahabodhi Temple in Anuradhapura, where Sanghamitta established the first Buddhist monastery, is a must-do experience for anyone interested in history, culture, and Buddhism. The temple complex is located about 200 km (124 miles) northeast of Colombo, the capital city of Sri Lanka.\n\nTo visit Mahabodhi Temple:\n\n* By air: Fly into Anuradhapura Airport or Colombo International Airport and take a taxi or bus to Anuradhapura.\n* By road: Take Highway No. 1 from Colombo to Anuradhapura, which takes around 4-5 hours depending on traffic conditions.\n* Accommodation: There are various hotels and guesthouses in Anuradhapura that offer comfortable accommodation for visitors.\n* Opening hours: The Mahabodhi Temple is open from 6 am to 7 pm daily.\n* Admission fees: The temple complex charges an entrance fee, which varies depending on the time of day and season.\n\nOverall, visiting Sanghamitta's legacy in Anuradhapura offers a unique glimpse into Sri Lanka's rich history and cultural heritage.",
+      "response_time_seconds": 49.15,
+      "accuracy_score": 0.4,
+      "keywords_matched": [
+        "sanghamitta",
+        "buddhism"
+      ],
+      "keywords_expected": [
+        "sanghamitta",
+        "bo tree",
+        "buddhism",
+        "female",
+        "theri"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q05",
+      "question": "Who was King Devanampiyatissa?",
+      "category": "Person",
+      "difficulty": "easy",
+      "answer": "King Devanampiyatissa (also known as Devanampiya Tissa) was a significant figure in the Mahavamsa, an ancient Sri Lankan chronicle. He ruled from 297 BCE to 272 BCE and is considered one of the most important monarchs in Sri Lankan history.\n\nAccording to the Mahavamsa, King Devanampiyatissa was a wise and just ruler who expanded his kingdom's borders through strategic alliances and military campaigns. One of his notable achievements was the conversion of Buddhism to Sri Lanka, which he accomplished by inviting Buddhist monks from India to establish monasteries in his kingdom.\n\nKing Devanampiyatissa is also known for his diplomatic efforts, particularly with the Indian emperor Chandragupta Maurya. He formed an alliance with Chandragupta and received significant military aid and support from him. This alliance helped King Devanampiyatissa strengthen his kingdom's defenses against neighboring powers.\n\nIn addition to his military and diplomatic achievements, King Devanampiyatissa is also remembered for his cultural patronage of the arts and architecture. He commissioned several important projects, including the construction of temples and monasteries, which showcased his commitment to promoting Buddhism in Sri Lanka.\n\nHistorically, King Devanampiyatissa's reign marked a significant turning point in Sri Lankan history, as it laid the foundation for the country's future development and its unique cultural identity. Today, visitors can explore the ruins of Tissamaharama, which was once the capital city during his reign, to gain a deeper understanding of this important period in Sri Lankan history.\n\nPractical Travel Information:\n\nTo visit Tissamaharama, you can follow these steps:\n\n1. Fly into Ratnapura Airport (RUP) or Colombo International Airport (CMB), both of which are well-connected to major cities in Sri Lanka.\n2. From the airport, take a taxi or bus to the town of Tissamaharama, which is approximately 120 km from Ratnapura and 230 km from Colombo.\n3. Once you arrive in Tissamaharama, explore the ancient city's ruins, including the remains of the Temple of the Tooth (Dagaba) and the Prince's Palace (Rajagriya).\n4. Visit the nearby Mahabodhi Temple, which is dedicated to the Buddha and features a stunning dagaba (stupa) that dates back to King Devanampiyatissa's time.\n5. Take a guided tour of the city to learn more about its history and cultural significance.\n\nNote: Tissamaharama is a popular tourist destination, especially during the dry season (December to April). Be sure to plan your visit accordingly and book accommodations in advance to avoid crowds and ensure a comfortable stay.",
+      "response_time_seconds": 60.13,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "devanampiyatissa",
+        "buddhism",
+        "king"
+      ],
+      "keywords_expected": [
+        "devanampiyatissa",
+        "buddhism",
+        "mahinda",
+        "king",
+        "anuradhapura"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q06",
+      "question": "What is the significance of Anuradhapura?",
+      "category": "Place",
+      "difficulty": "easy",
+      "answer": "Anuradhapura, the ancient capital of Sri Lanka, holds immense historical and cultural significance in the Mahavamsa chronicle. Founded in the 4th century BCE by King Devanampiya Tissa, Anuradhapura was a major center of Buddhist learning, art, and architecture during the ancient period.\n\nThe city's significance can be attributed to its association with the sacred Bo Tree, which is believed to be the site where the Buddha attained enlightenment. According to legend, the tree was planted by King Devanampiya Tissa himself, who had previously been a Hindu priest but converted to Buddhism after encountering the Buddha.\n\nAnuradhapura was also home to numerous great stupas, including the Dagaba and the Mahabodhi Stupa, which were built during the reign of King Parakramabahu I (1153-1186 CE). The city's architecture reflects a blend of Indian, Buddhist, and Sri Lankan influences, showcasing the rich cultural heritage of the region.\n\nIn the Mahavamsa chronicle, Anuradhapura is described as a sacred city, where the Buddha spent his final days before passing away. The chronicle also mentions the city's importance in the spread of Buddhism throughout Sri Lanka and beyond.\n\nToday, Anuradhapura is a UNESCO World Heritage Site and a major tourist destination, attracting visitors from around the world who come to experience its rich history, culture, and natural beauty.\n\nPractical Travel Information:\n\n* Getting There: Anuradhapura is located approximately 200 km north of Colombo. The most convenient way to reach Anuradhapura is by taking a domestic flight from Colombo or by driving along the A4 highway.\n* Accommodation: There are various hotels and guesthouses available in Anuradhapura, ranging from budget-friendly options to luxury resorts.\n* Attractions:\n + The Sacred Bo Tree\n + The Dagaba Stupa\n + The Mahabodhi Stupa\n + The Royal Palace\n + The Museum of Archaeology\n* Best Time to Visit: The best time to visit Anuradhapura is during the dry season, from December to April.\n* Safety: As with any tourist destination, it's essential to take necessary precautions to ensure your safety. Be mindful of your belongings and avoid traveling alone at night.\n\nHistorical Context:\n\n* In the 4th century BCE, Anuradhapura was founded by King Devanampiya Tissa, who converted to Buddhism after encountering the Buddha.\n* During the reign of King Parakramabahu I (1153-1186 CE), numerous great stupas were built in Anuradhapura, including the Dagaba and the Mahabodhi Stupa.\n* In the 13th century CE, Anuradhapura was abandoned due to a series of natural disasters and wars. The city remained abandoned for over 1,000 years until its rediscovery in the 19th century.\n\nBy visiting Anuradhapura, you can experience the rich history and culture of Sri Lanka firsthand, and gain a deeper understanding of the significance of this ancient city in the Mahavamsa chronicle.",
+      "response_time_seconds": 69.06,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "anuradhapura",
+        "capital",
+        "ancient",
+        "sacred"
+      ],
+      "keywords_expected": [
+        "anuradhapura",
+        "capital",
+        "ancient",
+        "kingdom",
+        "sacred"
+      ],
+      "graph_triples_count": 1,
+      "location_detected": true
+    },
+    {
+      "id": "Q07",
+      "question": "Where is Sigiriya located?",
+      "category": "Place",
+      "difficulty": "easy",
+      "answer": "Sigiriya, the magnificent rock fortress built by King Kassapa in the 5th century CE, is situated in the central highlands of Sri Lanka. Specifically, it is located near the town of Dambulla, in the Matale District of the Central Province.\n\nHistorically, Sigiriya was an important stronghold of the ancient Sinhalese kingdom, and its strategic location allowed King Kassapa to control the surrounding region. The fortress was built on a massive granite rock outcrop, which rises over 200 meters above the surrounding landscape.\n\nToday, Sigiriya is one of Sri Lanka's most famous tourist attractions, and it is easily accessible by road or air. Visitors can reach Sigiriya from Dambulla town, which is about 5 kilometers away, by taking a short taxi ride or walking along the scenic roads that wind their way up to the fortress.\n\nIf you're planning to visit Sigiriya, I recommend arriving early in the morning to avoid the heat and crowds. The best time to visit is during the dry season, from December to April, when the weather is generally sunny and pleasant.\n\nOnce you arrive at Sigiriya, be sure to explore the ancient ruins, including the famous Lion's Rock, which offers breathtaking views of the surrounding landscape. Don't forget to take a stroll around the nearby Dambulla Cave Temple, a UNESCO World Heritage Site that features some of Sri Lanka's most impressive Buddhist rock art.\n\nOverall, Sigiriya is a must-visit destination for anyone interested in history, culture, and natural beauty. Its unique location and stunning architecture make it an unforgettable experience for visitors from around the world.",
+      "response_time_seconds": 36.78,
+      "accuracy_score": 1.0,
+      "keywords_matched": [
+        "sigiriya",
+        "rock",
+        "fortress",
+        "kassapa",
+        "sri lanka"
+      ],
+      "keywords_expected": [
+        "sigiriya",
+        "rock",
+        "fortress",
+        "kassapa",
+        "sri lanka"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q08",
+      "question": "How to visit Polonnaruwa?",
+      "category": "Location",
+      "difficulty": "easy",
+      "answer": "Visiting Polonnaruwa is a fascinating experience that allows you to delve into the rich history and culture of ancient Sri Lanka. Located in the central highlands of the island, Polonnaruwa was the medieval capital of Sri Lanka from the 10th to the 13th century.\n\n**Historical Context:**\nPolonnaruwa was founded by King Parakramabahu I in 1197 AD and became a major center of Buddhist learning and culture. The city's strategic location made it an important hub for trade and commerce, attracting merchants and travelers from across Asia. Polonnaruwa's golden age was marked by the construction of numerous temples, including the famous Gal Vihara rock temple, which is considered one of the finest examples of Buddhist art in Sri Lanka.\n\n**Practical Travel Information:**\n\n1. **Getting There:** The nearest airport is at Kandy, which is about 160 km (100 miles) from Polonnaruwa. You can take a domestic flight or drive to Kandy and then hire a taxi or bus to reach Polonnaruwa.\n2. **Transportation:** Once you arrive in Polonnaruwa, you can walk around the city, which is relatively small. Taxis and buses are also available for hire.\n3. **Accommodation:** There are several hotels and guesthouses in Polonnaruwa that offer comfortable accommodation at reasonable prices.\n4. **Best Time to Visit:** The best time to visit Polonnaruwa is during the dry season, from December to April, when the weather is cool and sunny.\n5. **Tourist Information:** The Sri Lanka Tourism Development Authority (SLTDA) has a tourist information center in Polonnaruwa that provides maps, guides, and other resources to help you plan your visit.\n\n**Must-see Attractions:**\n\n1. **Gal Vihara Rock Temple:** This 13th-century temple is carved into the side of a hill and features intricate carvings and sculptures depicting Buddhist deities.\n2. **Polonnaruwa Museum:** This museum houses a collection of artifacts and exhibits that showcase the history and culture of Polonnaruwa.\n3. **Dambulla Cave Temple:** While not in Polonnaruwa itself, this nearby temple is another famous example of Buddhist art and architecture.\n\n**Tips:**\n\n1. Wear comfortable shoes and clothing suitable for walking and exploring ancient ruins.\n2. Bring sun protection, including a hat, sunglasses, and sunscreen.\n3. Respect local customs and traditions, especially when visiting temples or other sacred sites.\n4. Try some of the local cuisine, which includes dishes such as rice and curry, hoppers, and string hoppers.\n\nBy following these tips and historical context, you'll be well on your way to experiencing the rich history and culture of Polonnaruwa, one of Sri Lanka's most fascinating ancient cities.",
+      "response_time_seconds": 61.97,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "polonnaruwa",
+        "medieval",
+        "capital",
+        "visit"
+      ],
+      "keywords_expected": [
+        "polonnaruwa",
+        "medieval",
+        "capital",
+        "visit",
+        "heritage"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q09",
+      "question": "Who defeated Elara?",
+      "category": "Battle",
+      "difficulty": "medium",
+      "answer": "A great question about one of the most pivotal events in Sri Lankan history!\n\nAccording to the Mahavamsa, a renowned ancient chronicle of Sri Lanka, Elara was defeated by King Devanampiya Tissa. This significant victory marked a turning point in the history of Sri Lanka, as it led to the establishment of Theravada Buddhism and the beginning of the Anuradhapura period.\n\nKing Devanampiya Tissa, also known as Devanampiyatissa, was a powerful king who ruled Sri Lanka from approximately 247 BCE to 221 BCE. He is considered one of the most important figures in Sri Lankan history, as he played a crucial role in introducing Buddhism to the island and establishing the Anuradhapura kingdom.\n\nThe Mahavamsa states that Elara, also known as Elaraj, was a powerful chieftain who resisted King Devanampiya Tissa's attempts to conquer him. However, after a long and brutal conflict, Elara was ultimately defeated by the king's forces.\n\nIt's worth noting that while this event is an important part of Sri Lankan history, it's not possible for modern visitors to witness the exact site where the battle took place. However, the Mahavamsa does provide valuable insights into the geography and politics of ancient Sri Lanka, which can be explored through visits to historical sites such as Anuradhapura, Polonnaruwa, and other archaeological ruins.\n\nIf you're interested in visiting these sites, I recommend planning a trip to Sri Lanka during the dry season (December to April), when the weather is generally warm and sunny. The best time to visit Anuradhapura, for example, is early morning or late afternoon, when the sun is not too intense. Be sure to dress modestly and respect local customs and traditions.\n\nAdditionally, consider hiring a knowledgeable guide who can provide insights into the history and significance of these sites. They can help you navigate the ruins, explain the historical context, and share stories about the people and events that shaped Sri Lanka's rich cultural heritage.",
+      "response_time_seconds": 45.1,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "elara",
+        "defeated",
+        "battle",
+        "war"
+      ],
+      "keywords_expected": [
+        "dutugamunu",
+        "elara",
+        "defeated",
+        "battle",
+        "war"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q10",
+      "question": "What was the war between Dutugamunu and Elara about?",
+      "category": "Battle",
+      "difficulty": "medium",
+      "answer": "The war between Dutugamunu and Elara was a pivotal event in Sri Lankan history, as recorded in the Mahavamsa. According to the chronicle, Dutugamunu, who was the son of King Devanampiya Tissa of Anuradhapura, sought to expand his kingdom's borders by conquering the neighboring kingdom of Elara.\n\nElara was a powerful and wealthy kingdom that controlled much of the northern part of Sri Lanka. The king of Elara, Elara Mahanama, had been expanding his territory through conquests and alliances with other kingdoms. However, he refused to acknowledge Dutugamunu as his superior and instead sought to maintain his independence.\n\nThe war between Dutugamunu and Elara was sparked by a dispute over the control of the kingdom of Tambapanni, which is now believed to be located in the Jaffna Peninsula. The Mahavamsa records that Dutugamunu invaded Elara with a large army and laid siege to the capital city.\n\nAfter a long and bloody conflict, Dutugamunu emerged victorious, capturing the capital city of Elara and incorporating its territory into his own kingdom. Elara Mahanama was killed in battle, and his son, who had succeeded him as king, was taken prisoner by Dutugamunu.\n\nThe war marked a significant turning point in Sri Lankan history, as it led to the expansion of the Anuradhapura kingdom and the establishment of its dominance over much of the island. It also set the stage for the rise of Buddhism in Sri Lanka, as Dutugamunu was a devout Buddhist who sought to spread the teachings of the Buddha throughout his kingdom.\n\nIn practical terms, if you were to visit the site of the war between Dutugamunu and Elara today, you would find that it is located in the northern part of Sri Lanka, near the city of Jaffna. The exact location of the battle is not certain, but it is believed to have taken place in the vicinity of the present-day town of Vankalai.\n\nVisitors can explore the ancient ruins and historical sites in the area, including the remains of the Elara kingdom's capital city, which are now a UNESCO World Heritage Site. The site also features several Buddhist temples and monuments that date back to the time of Dutugamunu.\n\nTo get to Jaffna from Colombo, you can take a domestic flight or bus, which takes around 4-5 hours depending on traffic and road conditions. From Jaffna, you can hire a taxi or take a local bus to reach Vankalai, which is about an hour's drive away.\n\nIt's worth noting that the historical sites in this area are scattered and not well-maintained, so it may be necessary to hire a guide or join a tour group to fully appreciate the significance of the site. Additionally, the region has experienced conflict and instability in recent years, so it's essential to exercise caution and follow local advice when traveling to this area.",
+      "response_time_seconds": 64.18,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "dutugamunu",
+        "elara",
+        "kingdom"
+      ],
+      "keywords_expected": [
+        "dutugamunu",
+        "elara",
+        "kingdom",
+        "unification",
+        "sinhalese"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q11",
+      "question": "What did Dutugamunu build after winning the war?",
+      "category": "Structure",
+      "difficulty": "medium",
+      "answer": "A great question about one of Sri Lanka's most famous kings!\n\nAccording to the Mahavamsa, a sacred chronicle of Sri Lanka, King Dutugamunu (also known as Dutugampada) was a powerful king who ruled from 161 BCE to 137 BCE. After winning the war against his rival, King Elara, he built a magnificent city called Anuradhapura.\n\nAnuradhapura was an ancient capital city of Sri Lanka that served as the seat of power for many centuries. It is considered one of the most sacred cities in Buddhism and is still an important pilgrimage site today.\n\nAs for visiting Anuradhapura, it's a must-see destination for anyone interested in history, culture, and spirituality. The city is located about 200 km (124 miles) northeast of Colombo, the capital city of Sri Lanka.\n\nTo get to Anuradhapura from Colombo:\n\n1. Take a domestic flight from Colombo International Airport to Anuradhapura Airport.\n2. Alternatively, you can take a bus or train from Colombo to Anuradhapura, which takes around 6-8 hours depending on the mode of transport and traffic conditions.\n\nOnce in Anuradhapura, you can explore the ancient city's ruins, including the Dagabas (stupa), temples, and other historical sites. The city is also home to several important Buddhist monuments, including the Mahabodhi Temple, which is a replica of the original temple built by Emperor Ashoka in India.\n\nVisitors can also take part in various cultural activities, such as attending a traditional Buddhist ceremony or learning about the history and culture of Anuradhapura at one of the local museums.",
+      "response_time_seconds": 37.94,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "stupa",
+        "temple",
+        "built"
+      ],
+      "keywords_expected": [
+        "stupa",
+        "ruwanweli",
+        "temple",
+        "built",
+        "mahathupa"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q12",
+      "question": "What is the story of King Kashyapa and Sigiriya?",
+      "category": "Person",
+      "difficulty": "medium",
+      "answer": "The story of King Kassapa (also known as Kashyapa) and Sigiriya is a fascinating one in the Mahavamsa, an ancient Sri Lankan chronicle.\n\nAccording to the Mahavamsa, King Kassapa was a powerful ruler who built the magnificent rock fortress of Sigiriya in the 5th century CE. The story goes that Kassapa was a wise and just king who ruled over the kingdom of Anuradhapura with great wisdom and prosperity.\n\nHowever, Kassapa's reign was also marked by a series of tragic events. He had two wives, one of whom was a beautiful woman named Manavaddhana. Despite his love for her, Kassapa was forced to marry another woman, Mahasenavati, who was the daughter of a neighboring king.\n\nKassapa's relationship with Manavaddhana became increasingly strained as he struggled to reconcile his duty as a king with his personal feelings. In an attempt to resolve the situation, Kassapa consulted the wise and powerful Buddhist sage, Mahinda, who advised him to marry Manavaddhana and make her queen.\n\nDespite this advice, Kassapa's relationship with Manavaddhana continued to deteriorate. Eventually, she took her own life in despair, which was seen as a great tragedy by the people of Anuradhapura.\n\nKassapa was deeply grieved by Manavaddhana's death and decided to build a magnificent rock fortress in her memory. He chose a remote location, now known as Sigiriya, and built an elaborate palace with intricate carvings, frescoes, and sculptures.\n\nThe story of King Kassapa and Sigiriya is not only a testament to the king's love for his wife but also a reflection of the cultural and artistic achievements of ancient Sri Lanka. The rock fortress of Sigiriya, which was built during this period, is now a UNESCO World Heritage Site and one of the most iconic landmarks in Sri Lanka.\n\nIf you plan to visit Sigiriya, it's best to start early in the morning to avoid the heat and crowds. From Anuradhapura or other nearby cities, take a taxi or bus to Sigiriya (approximately 1-2 hours journey). Once you arrive at the site, follow the signs to the main entrance and purchase your ticket.\n\nAs you explore the fortress, be sure to admire the stunning views of the surrounding landscape and the intricate carvings that adorn the walls. Be respectful of the site's history and cultural significance, and don't forget to take plenty of photos to capture the breathtaking beauty of Sigiriya!\n\nPractical Travel Information:\n\n* Best time to visit: Early morning (6-8 am) or late afternoon (4-6 pm)\n* Getting there: From Anuradhapura or other nearby cities, take a taxi or bus (approximately 1-2 hours journey)\n* Ticket price: Around LKR 500-1000 (approximately USD 3-7) per person\n* Accommodation options: Sigiriya has several hotels and resorts that offer comfortable accommodation options. You can also consider staying in nearby Anuradhapura or Dambulla.\n* Food and drink: There are several restaurants and cafes within the fortress complex, offering a range of local and international cuisine.\n\nRemember to stay hydrated, wear comfortable shoes, and bring sun protection (hat, sunglasses, sunscreen) to ensure a enjoyable and memorable visit to Sigiriya.",
+      "response_time_seconds": 74.29,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "kassapa",
+        "sigiriya",
+        "palace"
+      ],
+      "keywords_expected": [
+        "kassapa",
+        "sigiriya",
+        "palace",
+        "father",
+        "moggallana"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q13",
+      "question": "When did Buddhism arrive in Sri Lanka?",
+      "category": "Event",
+      "difficulty": "medium",
+      "answer": "Buddhism arrived in Sri Lanka around 250 BCE. According to the Mahavamsa, a Buddhist monk named Mahinda, who was the son of Emperor Ashoka of India, is believed to have introduced Buddhism to Sri Lanka.\n\nMahinda is said to have traveled to Sri Lanka with his sister, Sanghamitta, and brought with him sacred relics from Bodh Gaya in India. These relics were placed at the Mahabodhi Temple in Anuradhapura, which became a major pilgrimage site for Buddhists.\n\nThe arrival of Buddhism in Sri Lanka marked the beginning of a significant cultural and religious influence that would shape the island's history and identity for centuries to come.\n\nAs for visiting the Mahabodhi Temple in Anuradhapura, it is located about 200 km (124 miles) northeast of Colombo. The temple complex is situated near the ancient city of Anuradhapura, which was once the capital of Sri Lanka.\n\nTo visit the Mahabodhi Temple, you can take a taxi or bus from Colombo to Anuradhapura, which takes around 4-5 hours depending on traffic and road conditions. Alternatively, you can take a domestic flight from Colombo to Anuradhapura Airport, which is about 30 minutes away from the temple.\n\nOnce in Anuradhapura, you can explore the ancient city, including the Mahabodhi Temple, which is surrounded by several other important Buddhist sites and historical landmarks. The temple complex includes several stupas, including the famous Dagaba Stupa, which houses a sacred relic of the Buddha.\n\nIt's worth noting that the Mahavamsa also mentions the arrival of Buddhism in Sri Lanka through another route, via the Indian Ocean trade routes. According to legend, Buddhist monks and traders traveled along these routes, bringing Buddhist teachings and artifacts to Sri Lanka.\n\nIn any case, the arrival of Buddhism in Sri Lanka marked a significant turning point in the island's history, shaping its culture, politics, and identity for centuries to come.",
+      "response_time_seconds": 48.67,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "buddhism",
+        "mahinda",
+        "bce"
+      ],
+      "keywords_expected": [
+        "buddhism",
+        "mahinda",
+        "247",
+        "bce",
+        "devanampiyatissa"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q14",
+      "question": "What is the Mahavamsa?",
+      "category": "General",
+      "difficulty": "medium",
+      "answer": "The Mahavamsa (Sinhala: මහවම වම්ම; romanized: Mahāvamsa) is an ancient chronicle of Sri Lanka, considered one of the most important historical texts in the country. It was written in Pali, a classical language of ancient India and Southeast Asia, between 5th to 11th centuries CE.\n\nThe Mahavamsa is a comprehensive account of Sri Lankan history from the mythical past to the 11th century, covering over 2,500 years. The text is divided into five books (khanda) and contains detailed information about the country's geography, politics, culture, and society during that period.\n\nThe chronicle begins with the mythical origins of Sri Lanka, describing the island as a sacred land created by the gods, and then proceeds to recount the history of the Sinhalese people from their arrival in the island to the 11th century. It includes accounts of kings, queens, battles, and important events that shaped the country's development.\n\nThe Mahavamsa is not only an historical document but also a sacred text for Buddhists in Sri Lanka, as it contains many Buddhist scriptures and teachings. The chronicle has been translated into various languages, including Sinhala, English, and other European languages, making it accessible to scholars and enthusiasts worldwide.\n\nIn terms of visiting the Mahavamsa, it is not possible to visit a physical book or manuscript, but there are several historical sites in Sri Lanka associated with the chronicle. For example, the Mahavamsa Library at the University of Peradeniya houses an extensive collection of Pali manuscripts and books related to the chronicle.\n\nIf you're interested in visiting Sri Lanka to learn more about its history and culture, I can provide practical travel information on how to get there, where to stay, and what to see.",
+      "response_time_seconds": 51.39,
+      "accuracy_score": 1.0,
+      "keywords_matched": [
+        "mahavamsa",
+        "chronicle",
+        "sri lanka",
+        "history",
+        "pali"
+      ],
+      "keywords_expected": [
+        "mahavamsa",
+        "chronicle",
+        "sri lanka",
+        "history",
+        "pali"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q15",
+      "question": "Which king built the Jetavanaramaya and why is it significant?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "The Jetavanaramaya, also known as the Temple of the Ten Thousand Columns, was built by King Mahasena (also known as Mahasen or Mahasen I) in the 1st century BC. According to historical records in the Mahavamsa, a sacred chronicle of Sri Lanka's history, King Mahasena constructed this magnificent temple as a testament to his wealth and power.\n\nThe Jetavanaramaya is significant for several reasons:\n\nHistorically, it was one of the tallest structures in the world at that time, standing over 100 meters tall. Its impressive height and grandeur were meant to demonstrate the king's dominance and authority.\n\nCulturally, the temple played a crucial role in the development of Theravada Buddhism in Sri Lanka. It served as a center for Buddhist learning and spiritual practice, attracting scholars and pilgrims from across the island.\n\nArchitecturally, the Jetavanaramaya is notable for its unique design, featuring 1,000 stone columns that supported the temple's massive structure. The temple's architecture was influenced by Indian and Southeast Asian styles, reflecting the cultural exchange and trade networks of ancient Sri Lanka.\n\nToday, the Jetavanaramaya is a UNESCO World Heritage Site and one of Sri Lanka's most iconic landmarks. Visitors can explore the temple complex, which includes several shrines, halls, and sculptures depicting Buddhist deities and mythological scenes.\n\nTo visit the Jetavanaramaya, you can follow these practical travel directions:\n\n1. Location: The temple is situated in Polonnaruwa, a historic city located about 200 km (124 miles) northeast of Colombo.\n2. Getting There: By air, fly into Polonnaruwa Airport or Colombo International Airport and take a taxi or bus to the temple. Alternatively, you can take a train from Colombo to Polonnaruwa.\n3. Transportation: From Polonnaruwa town, walk about 1 km (0.6 miles) east to reach the Jetavanaramaya. You can also hire a tuk-tuk or taxi for transportation.\n4. Opening Hours: The temple is open daily from 7 am to 12 pm and 2 pm to 5 pm.\n5. Admission Fees: A small entrance fee applies, which includes access to the temple complex.\n\nPlease note that the temple's opening hours and admission fees may be subject to change, so it's best to check with local authorities or tourist information centers for up-to-date information before planning your visit.",
+      "response_time_seconds": 67.39,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "mahasena",
+        "jetavana",
+        "tallest",
+        "built"
+      ],
+      "keywords_expected": [
+        "mahasena",
+        "jetavana",
+        "stupa",
+        "tallest",
+        "built"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q16",
+      "question": "What is the connection between Vijaya and the founding of Sri Lanka?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "A great question about one of the most fascinating periods in Sri Lankan history!\n\nAccording to the Mahavamsa, a sacred chronicle of ancient Sri Lanka, Vijaya was a prince from the kingdom of Magadha (present-day India) who played a crucial role in the founding of Sri Lanka.\n\nIn 543 BCE, Vijaya, along with his brother Sena and a group of followers, set sail from present-day India to establish a new home. They were attracted by the stories of the island's beauty and fertility, which had been passed down through oral tradition.\n\nAfter a long and arduous journey, they arrived on the west coast of Sri Lanka, specifically at the mouth of the Gal Vihara River (now known as the Kelani River). Vijaya and his followers were welcomed by the local ruler, King Devanampiya Tissa, who was impressed by their bravery and determination.\n\nKing Devanampiya Tissa offered them a place to settle in the kingdom, which they accepted. The prince and his followers established a new capital city, Anuradhapura (meaning \"City of the Blessed\"), which would become the center of Sri Lankan civilization for centuries to come.\n\nVijaya is said to have been crowned as the first king of Sri Lanka, with the name Pandukabhaya, marking the beginning of the Sinhalese dynasty. He went on to establish a new order in the kingdom, introducing Buddhism and promoting the arts, literature, and culture.\n\nToday, Anuradhapura is a UNESCO World Heritage Site and one of the most sacred cities in Sri Lanka, attracting visitors from around the world who come to experience its rich history and cultural heritage.\n\nIn practical terms, if you're planning to visit Anuradhapura, it's best to take a taxi or bus from Colombo (the capital city) or other major towns in Sri Lanka. The journey takes around 4-5 hours by road, depending on traffic conditions. You can also consider hiring a private car and driver for the day.\n\nOnce you arrive at Anuradhapura, be sure to explore the ancient city's ruins, including the famous Dagabas (stupa complexes), temples, and other historical sites. The city is also home to several museums, including the Anuradhapura Museum, which houses a collection of artifacts and exhibits that showcase the history and culture of Sri Lanka.\n\nOverall, visiting Anuradhapura offers a unique glimpse into Sri Lanka's rich history and cultural heritage, making it an unforgettable experience for anyone interested in exploring the country's ancient past.",
+      "response_time_seconds": 68.5,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "vijaya",
+        "sri lanka",
+        "prince"
+      ],
+      "keywords_expected": [
+        "vijaya",
+        "founded",
+        "sri lanka",
+        "tambaparni",
+        "prince"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q17",
+      "question": "How did Mahinda introduce Buddhism to Sri Lanka and who was the king at that time?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "A great question about one of the most significant events in Sri Lankan history!\n\nAccording to the Mahavamsa, a chronicle of ancient Sri Lanka, Mahinda, an Indian Buddhist monk, introduced Buddhism to Sri Lanka in 247 BCE. At that time, the king of Sri Lanka was Devanampiya Tissa.\n\nThe story goes that Mahinda arrived at Mihintale (මිහින්තලේ), a hill near Anuradhapura, with his brother Naga and a group of Buddhist monks. They were invited by King Devanampiya Tissa to discuss the teachings of Buddhism.\n\nDuring their meeting, Mahinda is said to have demonstrated the power of Buddhism by performing miracles, such as making a lotus flower bloom in the king's presence. This impressed the king, who was already familiar with Hinduism and Jainism, and he became interested in learning more about Buddhism.\n\nAfter some deliberation, King Devanampiya Tissa decided to adopt Buddhism as the state religion of Sri Lanka. He converted to Buddhism and encouraged his people to follow the teachings of the Buddha.\n\nThis event marked the beginning of Buddhism in Sri Lanka, which would go on to play a significant role in shaping the country's culture, politics, and society for centuries to come.\n\nToday, Mihintale is a sacred site in Sri Lanka, and visitors can still see the remains of the ancient temple where Mahinda introduced Buddhism to the island. The site is located near Anuradhapura, which was once the capital city of Sri Lanka.",
+      "response_time_seconds": 43.9,
+      "accuracy_score": 0.8,
+      "keywords_matched": [
+        "mahinda",
+        "buddhism",
+        "mihintale",
+        "247"
+      ],
+      "keywords_expected": [
+        "mahinda",
+        "devanampiyatissa",
+        "buddhism",
+        "mihintale",
+        "247"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": true
+    },
+    {
+      "id": "Q18",
+      "question": "What structures did Dutugamunu build in Anuradhapura?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "Dutugamunu, the third king of the Sinhalese dynasty, built several notable structures in Anuradhapura during his reign. According to the Mahavamsa, a sacred chronicle of Sri Lanka, Dutugamunu constructed the following structures:\n\n1. The Dagabas: A series of stupas (Buddhist monuments) that were built to commemorate important events and figures in Buddhist history. Specifically, he built the Dagaba at Anuradhapura, which is believed to be one of the oldest and most sacred dagabas in Sri Lanka.\n2. The Mahabodhi Dagaba: Although not directly attributed to Dutugamunu, it is believed that he built a smaller version of this famous stupa, which was later renovated by other kings.\n\nIt's worth noting that while these structures are still standing today, they have undergone significant renovations and restorations over the centuries. Nonetheless, they remain an integral part of Anuradhapura's rich cultural heritage and a testament to the ingenuity and craftsmanship of ancient Sri Lankan architects.\n\nIf you plan to visit Anuradhapura, I recommend exploring these structures during your visit. The Mahabodhi Dagaba is located near the sacred Bo Tree, which is also worth visiting. Both sites are easily accessible on foot or by tuk-tuk (a traditional three-wheeled vehicle) from the city center.\n\nTo get to Anuradhapura, you can fly into Colombo International Airport and then take a domestic flight or drive to the city. Alternatively, you can take a bus or train from Colombo to Anuradhapura, which takes around 4-5 hours depending on traffic and road conditions.\n\nOnce in Anuradhapura, be sure to explore the city's many temples, museums, and historical sites, including the Royal Palace, the Sri Maha Bodhi, and the Anuradhapura Museum. With its rich history and cultural significance, Anuradhapura is a must-visit destination for anyone interested in exploring ancient Sri Lanka.\n\nCoordinates: 8.3114, 80.4037\n\nGoogle Maps: https://maps.google.com/?q=8.3114,80.4037",
+      "response_time_seconds": 61.54,
+      "accuracy_score": 0.6,
+      "keywords_matched": [
+        "dutugamunu",
+        "anuradhapura",
+        "stupa"
+      ],
+      "keywords_expected": [
+        "dutugamunu",
+        "anuradhapura",
+        "ruwanweli",
+        "stupa",
+        "brazen palace"
+      ],
+      "graph_triples_count": 1,
+      "location_detected": true
+    },
+    {
+      "id": "Q19",
+      "question": "Who was Parakramabahu and what was his greatest achievement?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "Parakramabahu I (also known as Parakramabahu the Great) was a king of Sri Lanka who ruled from 1153 to 1186 CE. He is considered one of the most important figures in Sri Lankan history.\n\nOne of Parakramabahu's greatest achievements was his military campaign against the Chola Empire, which was a powerful Tamil kingdom that controlled much of southern India at the time. In 1165 CE, he launched a successful invasion of the Chola Empire and captured several key cities, including Trincomalee and Koneswaram.\n\nParakramabahu's greatest achievement, however, was his conversion to Buddhism and his efforts to promote the religion in Sri Lanka. He is said to have built numerous temples and monasteries throughout the island, including the famous Temple of the Tooth at Kandy, which houses a relic of the Buddha's tooth.\n\nIn addition to his military conquests and religious achievements, Parakramabahu also implemented several administrative reforms, including the creation of a new system of taxation and the establishment of a network of roads and highways throughout the island.\n\nToday, Parakramabahu is remembered as one of Sri Lanka's greatest kings, and his legacy continues to be celebrated in Sri Lanka. His achievements have had a lasting impact on the country's history, culture, and politics.\n\nIf you're interested in visiting the Temple of the Tooth at Kandy, which was built during Parakramabahu's reign, it is located in the heart of Kandy, the capital city of Sri Lanka. The temple is a UNESCO World Heritage Site and is considered one of the most sacred sites in Buddhism. To get there, you can take a taxi or bus from Colombo, the capital city of Sri Lanka, which takes around 5-6 hours depending on traffic.\n\nAlternatively, you can also visit other historical sites associated with Parakramabahu, such as the ancient city of Polonnaruwa, which was the capital of Sri Lanka during his reign. Polonnaruwa is located in central Sri Lanka and is a UNESCO World Heritage Site. To get there, you can take a domestic flight from Colombo or a bus from Kandy.\n\nOverall, visiting historical sites associated with Parakramabahu can provide valuable insights into the king's life and achievements, as well as the history of Sri Lanka during his reign.",
+      "response_time_seconds": 64.08,
+      "accuracy_score": 0.4,
+      "keywords_matched": [
+        "parakramabahu",
+        "polonnaruwa"
+      ],
+      "keywords_expected": [
+        "parakramabahu",
+        "polonnaruwa",
+        "irrigation",
+        "sea",
+        "unified"
+      ],
+      "graph_triples_count": 0,
+      "location_detected": false
+    },
+    {
+      "id": "Q20",
+      "question": "What is the relationship between Anuradhapura and the sacred Bo Tree?",
+      "category": "Multi-hop",
+      "difficulty": "hard",
+      "answer": "In the Mahavamsa, the ancient Sri Lankan chronicle, Anuradhapura holds a significant place of reverence due to its association with the sacred Bo Tree (Sri Maha Bodhi). According to historical accounts in the Mahavamsa, the Bo Tree was planted by Emperor Ashoka's son, Mahinda, in the 3rd century BCE. This event marked the beginning of Buddhism in Sri Lanka.\n\nThe story goes that Emperor Ashoka sent his son, Mahinda, to Sri Lanka with a sacred Bo Tree from Bodh Gaya, India, where Buddha attained enlightenment under the same tree. Upon arrival, Mahinda and his sister, Sanghamitta, a nun who carried a branch of the original Bodhi Tree, planted the new tree in Anuradhapura.\n\nOver time, the Bo Tree became an iconic symbol of Buddhism in Sri Lanka and a sacred site for pilgrims. The tree is said to have been blessed by Buddha himself, and its presence was believed to bring spiritual enlightenment and peace to those who visited it.\n\nToday, visitors can still see the remains of the ancient city of Anuradhapura, including the sacred Bo Tree, which stands as a testament to Sri Lanka's rich cultural heritage. The tree is now housed in a large pavilion, surrounded by other historical structures and monuments that showcase the city's significance in Buddhist history.\n\nIn practical terms, if you plan to visit the sacred Bo Tree in Anuradhapura, you can find it at the Sri Maha Bodhi Temple, located within the ancient city. The temple is easily accessible via Google Maps (https://maps.google.com/?q=8.3114,80.4037) and offers guided tours and information about the tree's history and significance.\n\nVisitors should note that the site can be quite crowded, especially during peak tourist season. It is recommended to plan your visit early in the morning or later in the evening to avoid the heat and crowds. Additionally, visitors are expected to dress modestly and behave respectfully when visiting the temple and the sacred Bo Tree.",
+      "response_time_seconds": 56.22,
+      "accuracy_score": 1.0,
+      "keywords_matched": [
+        "anuradhapura",
+        "bo tree",
+        "sanghamitta",
+        "buddhism",
+        "sacred"
+      ],
+      "keywords_expected": [
+        "anuradhapura",
+        "bo tree",
+        "sanghamitta",
+        "buddhism",
+        "sacred"
+      ],
+      "graph_triples_count": 1,
+      "location_detected": true
+    }
+  ]
+}

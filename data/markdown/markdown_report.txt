@@ -1,0 +1,52 @@
+MARKDOWN CONVERSION REPORT
+============================================================
+
+mahavamsa.pdf chunks : 689
+Kings.pdf chunks     : 146
+Total chunks         : 835
+
+MAHAVAMSA CHUNKS:
+----------------------------------------
+  [subsection] පටුන (505 words)
+  [subsection] **මහාවංශ��යේ අර්ථ නිරූපණ� සහ කර්තෘත්ව�** (306 words)
+  [subsection] **මහාවංශ� සහ චූලවංශ� �න �බෙදීම** (260 words)
+  [subsection] **වංශ �බෙදීම පිළිබෙ�ඳ විවිධ මත විමසුම** (275 words)
+  [subsection] **චූලවංශ නාම��යේ සම්භව� සහ ග්‍රන්ථාරම්භ�** (300 words)
+  [subsection] **කර්තෘත්ව� සහ රචනා �ශලීන් පිළිබෙ�ඳ විමසුම** (249 words)
+  [subsection] **පරාක්‍රමබොහු රජු�ගයේ කාල පරිච්�ඡේඳ�** (381 words)
+  [subsection] **ඳඹ�ඳණි �ුග� සහ පසුකාලීන �කාටසයේ** (318 words)
+  [subsection] **පරිච්�ඡේඳ අඩුපාඩු හා �ඓතිහාසික කරුණු විමර්ශන�** (558 words)
+  [subsection] **ග්‍රන්ථ පාඨ �ශායේධන� සහ �වනසයේකම්** (211 words)
+  [subsection] **�වනත් මූලාශ්‍ර හා මහාවංශ� අතර අුති �වනසයේකම්** (452 words)
+  [subsection] **රාමඤයේඤ �ඳයේශ� සමඟ පුවති සම්බෙන්ධතා** (370 words)
+  [subsection] **මහාවංශ� සිංහලට පරිවර්තන� කිරී�ම් ඉතිහාස�** (530 words)
+  [subsection] **�ශායේධන ක්‍රම�වේඳ� හා ඉලයේලීම** (367 words)
+  [subsection] **මහා වංශ��යේ ඉතිහාස� සහ කාල වකවානු** (226 words)
+  [subsection] **සංසයේකාරක සටහන සහ කෘතඥතාව** (187 words)
+  [subsection] **ග්‍රන්ථාරම්භ�** (125 words)
+  [subsection] **සූවිසි බෙුදුවරු සහ බෙුඳයේධත්ව�** (278 words)
+  [subsection] **ප්‍රථම ලංකා ගමන� - මහි�ංගන�** (335 words)
+  [subsection] **මහි�ංගන සූ��යේ ඉතිහාස�** (233 words)
+
+KINGS.PDF CHUNKS:
+----------------------------------------
+  [subsection] **පළමවන පරාකමබාහ රජතමා (මහා පරාකමබාහ)** (370 words)
+  [subsection] කලා සහ සංසේකෘතිය (17 words)
+  [subsection] පවුල සහ අවසානය (58 words)
+  [subsection] **වජය රජ (කමර වජය)** (53 words)
+  [subsection] උපත සහ පසුබිම (128 words)
+  [subsection] රාජය සේථාපනය (50 words)
+  [subsection] වැදෙත්කම සහ උරුමය (72 words)
+  [subsection] **පළමවන කාශයප රජ (කසසප I / සගර කාශයප)** (55 words)
+  [subsection] **උපත සහ පසුබිම** (53 words)
+  [subsection] **බලයට පැමිණීම** (72 words)
+  [subsection] **සීගිරිය රාජධානිය** (82 words)
+  [subsection] **පරිපාලනය සහ නවනත් ක්‍රියාකාරකම්** (40 words)
+  [subsection] **අවසානය** (45 words)
+  [subsection] **උරුමය සහ වැදගත්කම** (58 words)
+  [subsection] **පසවන මහනද රජ (මහද V / Mahinda V)** (55 words)
+  [subsection] **උපත සහ පසුබිම** (44 words)
+  [subsection] **රාජය සමය (982–1017)** (62 words)
+  [subsection] **න ෝල ආක්‍රමණය සහ අවසානය** (65 words)
+  [subsection] **පවුල සහ අනුප්‍රාප්තිකයන්** (26 words)
+  [subsection] **උරුමය සහ වැදගත්කම** (113 words)
